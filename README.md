@@ -1,10 +1,10 @@
 ### Olá eu sou Guilherme Braga ✔️🤚
 
-👨‍💻 Estou aqui para apresentar os projetos que estou a desenvolver durante o curso, bem como os projetos pessoais que faço com o objetivo de aprender e melhorar minhas habilidades.
+👨‍💻 Confira os projetos que estou desenvolvendo 
 
 📚 Estou em busca de oportunidades que contribuam para que minhas habilidades como desenvolvedor aumentem e também um lugar que eu possa me estabelecer.
 
-🔥 Comecei a programar em 2023.
+🔥 Python/Java Dev
 
 💻 Para entrar em contato: guilhermebragacnts@gmail.com
 
