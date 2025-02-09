@@ -1,14 +1,26 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Guilherme+Braga+aqui+👨‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Eae,+Guilherme+Braga+aqui!+💻)](https://git.io/typing-svg)
+----------------------------------------------------------
+
+<div>
+  <a href="https://github.com/Aureli-O">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeBrga&show_icons=true&theme=aura&include_all_commits=true&count_public=true"/>
+  <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBrga&layout=compact&langs_count=7&theme=aura"/>
+</div>
 
 
-# 👨‍💻 Desenvolvedor:  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+# 👨‍💻 Developer skills:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 # 👉 Sobre:
 
 💻 Formação: Graduando em Ciências da Computação - Unifor (4º semestre)
 
-📧 Contato:   
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:guilhermebragacnts@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoguilhermebraganascimento/)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBrga&layout=compact&theme=aura)
+# 📧 Contato: 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermebragacnts@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoguilhermebraganascimento/)
