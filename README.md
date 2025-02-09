@@ -22,7 +22,12 @@
 
 # 👉 Sobre:
 
-💻 Formação: Graduando em Ciências da Computação - Unifor (4º semestre)
+
+
+💻 Meu interesse por tecnologia começou quando criança. Sempre gostei de jogar, mas meu computador era antigo e sempre dava problemas. Com isso, comecei a investir tempo para entender mais sobre hardware e software, o que me influenciou a seguir nessa área.
+👨‍🎓 Atualmente, curso Ciência da Computação na Universidade de Fortaleza - UNIFOR.
+💡 Experiências: Desenvolvimento web (HTML, CSS, Bootstrap); Desenvolvimento mobile (Flutter); Desenvolvimento de sistemas em Java e Python; Design UX/UI usando Figma.
+🧾 Conquistas: Já participei do Dia T, um evento de exposição de projetos tecnológicos; desenvolvi um app em Flutter para um tour virtual de exposições de arte; construí o front-end de um site de academia.
 
 # 📧 Contato: 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermebragacnts@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoguilhermebraganascimento/)
